@@ -13,10 +13,10 @@ export default defineAppConfig({
       }
     },
     github: {
-      dir: '.starters/default/content',
+      dir: 'content',
       branch: 'main',
-      repo: 'docus',
-      owner: 'nuxt-themes',
+      repo: 'FakeCountries-API',
+      owner: 'korruz',
       edit: true
     },
     aside: {
